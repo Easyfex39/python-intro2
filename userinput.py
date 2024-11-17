@@ -12,3 +12,4 @@ print("details" , surname , firstname ,phoneno)
 b=8
 area-1*b
 print(area)
+
